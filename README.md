@@ -107,6 +107,7 @@
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/icons/VSCode.svg" alt="v s code" width="36" height="36"/> </a>&emsp;&emsp;
 <a href="https://colab.research.google.com/" target="_blank"> <img src="assets/icons/Google-Colaboratory.svg" alt="google colaboratory" width="45" height="45"/> </a> &emsp;&emsp;
+<a href="https://www.gitkraken.com/" target="_blank"> <img src="assets/icons/GitKraken.svg" alt="Git Kraken" width="45" height="45"/> </a> &emsp;&emsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="assets/icons/PyCharm.svg" alt="Py-Charm" width="37" height="37"/> </a>&emsp;&emsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="assets/icons/IntelliJ.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
 <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="assets/icons/CLion.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
