@@ -57,6 +57,7 @@
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="assets/icons/HTML5.svg" alt="html5" width="40" height="50"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="assets/icons/CSS3.svg" alt="css3" width="40" height="50"/> </a> &emsp;&emsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/icons/Bash.svg" alt="Bash" width="40" height="40"/> </a> &emsp;&emsp;
+<a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank"> <img src="assets/icons/LEX.png" alt="LEX" width="34" height="34"/> </a> &emsp;&emsp;
 <a href="https://en.wikipedia.org/wiki/QBasic" target="_blank"> <img src="assets/icons/QB64.png" alt="QBASIC" width="34" height="34"/> </a> &emsp;&emsp;
 </p>
 
