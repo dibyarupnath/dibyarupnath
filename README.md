@@ -44,18 +44,21 @@
 
 <hr>
 
-<h2 align="center"><strong>📜 Programming/Scripting Languages I Use/Know</strong></h2>
+<h2 align="center"><strong>📜 Frameworks & Programming/Scripting Languages I Use/Know</strong></h2>
 
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="assets/icons/Python.svg" alt="python" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="assets/icons/Matlab.png" alt="MATLAB" width="40" height="40"/> </a> &emsp;&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="assets/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> &emsp;&emsp;
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a> &emsp;&emsp;
+<a href="https://numpy.org/" target="_blank"> <img src="assets/icons/Numpy.svg" alt="numpy" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="assets/icons/C.svg" alt="c" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.java.com/" target="_blank"> <img src="assets/icons/Java.svg" alt="java" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://www.markdownguide.org/" target="_blank"> <img src="assets/icons/Markdown.png" alt="markdown" width="55" height="36"/> </a>&emsp;&emsp;
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="assets/icons/HTML5.svg" alt="html5" width="40" height="50"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="assets/icons/CSS3.svg" alt="css3" width="40" height="50"/> </a> &emsp;&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="assets/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> &emsp;&emsp;
+<a href="https://getbootstrap.com" target="_blank"> <img src="assets/icons/Bootstrap.svg" alt="bootstrap" width="44" height="44"/> </a> &emsp;&emsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/icons/Bash.svg" alt="Bash" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank"> <img src="assets/icons/LEX.png" alt="LEX" width="34" height="34"/> </a> &emsp;&emsp;
 <a href="https://en.wikipedia.org/wiki/QBasic" target="_blank"> <img src="assets/icons/QB64.png" alt="QBASIC" width="34" height="34"/> </a> &emsp;&emsp;
@@ -71,14 +74,11 @@
 <p align="center">
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="assets/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://keras.io/" target="_blank"> <img src="assets/icons/Keras.png" alt="keras" width="40" height="40"/> </a> &emsp;&emsp;
-<a href="https://numpy.org/" target="_blank"> <img src="assets/icons/Numpy.svg" alt="numpy" width="40" height="40"/> </a> &emsp;&emsp;
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://scikit-learn.org/" target="_blank"> <img src="assets/icons/Scikit-learn.png" alt="scikit-learn" width="80" height="50"/> </a>&emsp;&emsp;
 <a href="https://matplotlib.org/" target="_blank"> <img src="assets/icons/Matplotlib.svg" alt="matplotlib" width="48" height="48"/> </a> &emsp;&emsp;
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="assets/icons/Seaborn.png" alt="seaborn" width="48" height="48"/> </a> &emsp;&emsp;
 <a href="https://kubernetes.io/" target="_blank"> <img src="assets/icons/Kubernetes.svg" alt="Kubernetes" width="44" height="44"/> </a>&emsp;&emsp;
 <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp;
-<a href="https://getbootstrap.com" target="_blank"> <img src="assets/icons/Bootstrap.svg" alt="bootstrap" width="44" height="44"/> </a> &emsp;&emsp;
 <a href="https://go.dev/" target="_blank"> <img src="assets/icons/GO.png" alt="golang" width="" height="33"/> </a>&emsp;&emsp;
 <a href="https://www.r-project.org/" target="_blank"> <img src="assets/icons/R.svg" alt="R" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="assets/icons/PowerShell-5.0.png" alt="PowerShell 5.0" width="40" height="40"/> </a> &emsp;&emsp;
