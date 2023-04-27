@@ -273,9 +273,3 @@
 [The Rotaract Club of Calcutta Presidency]: https://www.facebook.com/rccalprez/
 
 <hr>
-
-<ul>
-    <li><a href="#"><i class="fa-brands fa-instagram instagram"></i></a></li>
-    <li><a href="#"><i class="fa-brands fa-whatsapp whatsapp"></i></a></li>
-    <li><a href="#"><i class="fa-brands fa-twitter twitter"></i></a></li>
-</ul>
