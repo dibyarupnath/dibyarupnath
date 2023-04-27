@@ -48,11 +48,12 @@
 
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="assets/icons/Python.svg" alt="python" width="40" height="40"/> </a>&emsp;&emsp;
+<a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="assets/icons/Matlab.png" alt="MATLAB" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="assets/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="assets/icons/C.svg" alt="c" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.java.com/" target="_blank"> <img src="assets/icons/Java.svg" alt="java" width="40" height="40"/> </a>&emsp;&emsp;
-<a href="https://www.markdownguide.org/" target="_blank"> <img src="assets/icons/Markdown.png" alt="markdown" width="60" height="40"/> </a>&emsp;&emsp;
+<a href="https://www.markdownguide.org/" target="_blank"> <img src="assets/icons/Markdown.png" alt="markdown" width="55" height="36"/> </a>&emsp;&emsp;
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="assets/icons/HTML5.svg" alt="html5" width="40" height="50"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="assets/icons/CSS3.svg" alt="css3" width="40" height="50"/> </a> &emsp;&emsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/icons/Bash.svg" alt="Bash" width="40" height="40"/> </a> &emsp;&emsp;
