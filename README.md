@@ -51,6 +51,7 @@
 <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="assets/icons/Matlab.png" alt="MATLAB" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://numpy.org/" target="_blank"> <img src="assets/icons/Numpy.svg" alt="numpy" width="40" height="40"/> </a> &emsp;&emsp;
+<a href="https://matplotlib.org/" target="_blank"> <img src="assets/icons/Matplotlib.svg" alt="matplotlib" width="44" height="44"/> </a> &emsp;&emsp;
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="assets/icons/C.svg" alt="c" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://www.java.com/" target="_blank"> <img src="assets/icons/Java.svg" alt="java" width="40" height="40"/> </a>&emsp;&emsp;
@@ -75,8 +76,8 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="assets/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://keras.io/" target="_blank"> <img src="assets/icons/Keras.png" alt="keras" width="40" height="40"/> </a> &emsp;&emsp;
 <a href="https://scikit-learn.org/" target="_blank"> <img src="assets/icons/Scikit-learn.png" alt="scikit-learn" width="80" height="50"/> </a>&emsp;&emsp;
-<a href="https://matplotlib.org/" target="_blank"> <img src="assets/icons/Matplotlib.svg" alt="matplotlib" width="48" height="48"/> </a> &emsp;&emsp;
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="assets/icons/Seaborn.png" alt="seaborn" width="48" height="48"/> </a> &emsp;&emsp;
+<a href="https://networkx.org/" target="_blank"> <img src="assets/icons/NetworkX.svg" alt="NetworkX" width="48" height="48"/> </a> &emsp;&emsp;
 <a href="https://kubernetes.io/" target="_blank"> <img src="assets/icons/Kubernetes.svg" alt="Kubernetes" width="44" height="44"/> </a>&emsp;&emsp;
 <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp;
 <a href="https://go.dev/" target="_blank"> <img src="assets/icons/GO.png" alt="golang" width="" height="33"/> </a>&emsp;&emsp;
