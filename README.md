@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="styles.css">
 
 <p align="center">
-<img src="./assets/gif/Hello.gif" width="530" >
+<img src="https://drive.google.com/drive/folders/1HdV3NbZ_P_K0vwbXhJqfa0vVxm-n3N1q?usp=sharing/assets/gif/Hello.gif" width="530" >
 </p>
 <img src="./assets/gif/glowing-div.gif">
 
