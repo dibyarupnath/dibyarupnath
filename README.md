@@ -1,10 +1,9 @@
-<!-- <h2 align="center"><strong>Hi there <img src="./assets/gif/Hi.gif" width="29px"> I'm <a href="https://github.com/dibyarupnath/">Dibyarup Nath</a>!</h2> -->
-<link rel="stylesheet" href="styles.css">
+<center><h5 style="color: yellowgreen;">Jio has blocked raw.githubusercontent.com in India. If you are using Jio, please use a VPN in order for this README to load properly. I will be slowly replacing the direct icon paths with CDN paths.</h5></center><br/>
 
 <p align="center">
-<img src="https://drive.google.com/drive/folders/1HdV3NbZ_P_K0vwbXhJqfa0vVxm-n3N1q?usp=sharing/assets/gif/Hello.gif" width="530" >
+<img src="./assets/gif/Hello.gif" width="100%" >
 </p>
-<img src="./assets/gif/glowing-div.gif">
+<img src="./assets/gif/glowing-div.gif" width="100%">
 
 <!--
 **dibyarupnath/dibyarupnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +11,7 @@
 
 [![@dibyarupnath's Holopin board](https://holopin.io/api/user/board?user=dibyarupnath)](https://holopin.io/@dibyarupnath)
 
-<img src="./assets/gif/glowing-div.gif">
+<img src="./assets/gif/glowing-div.gif" width="100%">
 
 <h2 align="center"><strong>💁🏻‍♂️ About Me</strong></h2>
 
