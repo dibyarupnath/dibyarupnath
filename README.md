@@ -82,8 +82,8 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp;
     <a href="https://go.dev/" target="_blank"> <img src="./assets/icons/GO.png" alt="golang" width="" height="33"/> </a>&emsp;&emsp;
     <a href="https://www.r-project.org/" target="_blank"> <img src="./assets/icons/R.svg" alt="R" width="40" height="40"/> </a>&emsp;&emsp;
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="./assets/icons/PowerShell-5.0.png" alt="PowerShell 5.0" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Solidity.png" alt="Solidity" width="34" height="34"/> </a> &emsp;&emsp;
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="./assets/icons/PowerShell-5.0.png" alt="PowerShell 5.0" width="40" height="40"/> </a> &emsp;&emsp;
 </p>
 
 <!-- Databases & Data-Management Tools I Use & Learn -->
