@@ -23,9 +23,10 @@
 
 - 🖋️ General Member [Social Media Team] at **[The Rotaract Club of Calcutta Presidency]**.
 
-<hr>
 
-<h2 align="center"><strong>🔗 My Profile Links</strong></h2>
+<!-- Let's Connect  -->
+<br>
+<h2 align="center"><strong>➕ Let's Connect </strong></h2>
 
 <p align="center">
     <a href="mailto:dibyarupnath@gmail.com" target="_blank"> <img src="./assets/icons/GMail.png" alt="gmail" width="50" height="36"/> </a>&emsp;&emsp;
@@ -40,8 +41,8 @@
     <!-- <a href="" target="_blank"> <img src="./assets/icons/Linktree.png" alt="linktree" width="33" height="33"/> </a> &emsp;&emsp; -->
 </p>
 
-<hr>
-
+<!-- Frameworks & Programming/Scripting Languages I Use/Know -->
+<br>
 <h2 align="center"><strong>📜 Frameworks & Programming/Scripting Languages I Use/Know</strong></h2>
 
 <p align="center">
@@ -66,8 +67,9 @@
 <!-- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>&emsp;&emsp; -->
 
-<hr>
 
+<!-- Frameworks & Programming/Scripting Languages I Learn -->
+<br>
 <h2 align="center"><strong>📖 Frameworks & Programming/Scripting Languages I Learn</strong></h2>
 
 <p align="center">
@@ -84,8 +86,8 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Solidity.png" alt="Solidity" width="34" height="34"/> </a> &emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- Databases & Data-Management Tools I Use & Learn -->
+<br>
 <h2 align="center"><strong>🗄️ Databases & Data-Management Tools I Use & Learn</strong></h2>
 
 <p align="center">
@@ -100,8 +102,8 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/DataGrip.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- IDEs & Other Technial Services I Use/Learn -->
+<br>
 <h2 align="center"><strong>🗝️ IDEs & Other Technial Services I Use/Learn</strong></h2>
 
 <p align="center">
@@ -129,8 +131,8 @@
     <a href="https://gitter.im/" target="_blank"> <img src="./assets/icons/Gitter.svg" alt="Gitter" width="37" height="37"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- Cloud Platforms I Use & Learn -->
+<br>
 <h2 align="center"><strong>☁️ Cloud Platforms I Use & Learn</strong></h2>
 
 <p align="center">
@@ -141,7 +143,7 @@
     <a href="https://github.com/dibyarupnath" target="_blank"> <img src="./assets/icons/IBM-Cloud.svg" alt="IBM Cloud PLatform" width="37" height="37"/>
 </p>
 
-<hr>
+<!-- Virtualization Software I Use -->
 
 <h2 align="center"><strong>💻 Virtualization Software I Use</strong></h2>
 
@@ -150,8 +152,8 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/OracleVirtualBox.png" alt="Oracle Virtual Box" width="37" height="37"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- Operating Systems I Have Used -->
+<br>
 <h2 align="center"><strong>🖥️ Operating Systems I Have Used</strong></h2>
 
 <p align="center">
@@ -171,8 +173,8 @@
     <a href="https://en.wikipedia.org/wiki/Symbian" target="_blank"> <img src="./assets/icons/Symbian-OS.png" alt="Symbian OS" width="96" height="32"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- My Preferred Collaboration Tools -->
+<br>
 <h2 align="center"><strong>🤝 My Preferred Collaboration Tools</strong></h2>
 
 <p align="center">
@@ -189,8 +191,8 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GChat.png" alt="Google Chat" width="38" height="38"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- Office Tools I Use -->
+<br>
 <h2 align="center"><strong>💼 Office Tools I Use</strong></h2>
 
 <p align="center">
@@ -210,8 +212,8 @@
     <a href="https://outlook.live.com/" target="_blank"> <img src="./assets/icons/Microsoft-Outlook.png" alt="Microsoft Outlook" width="33" height="33"/> </a>&emsp;&emsp;
 </p>
 
-<hr>
-
+<!-- Creative Softwares/Services I Use/Learn -->
+<br>
 <h2 align="center"><strong>🧙 Creative Softwares/Services I Use/Learn 🔮</strong></h2>
 
 <p align="center">
@@ -228,13 +230,14 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-Lightroom-CC.svg" alt="Adobe Lightroom" width="41" height="41"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-XD-CC.svg" alt="Adobe XD" width="41" height="41"/> </a>&emsp;&emsp;
 </p>
-<hr>
 
+<!-- My GitHub Stats -->
+<br>
 <h2 align="center"><strong>📈 My GitHub Stats</strong></h2>
 
 <!-- Widgets by Anura Ghazra (anuraghazra) -->
 <p align="center">
-    <a href="https://github.com/dibyarupnath/"><img width="300" src="https://github-readme-stats.vercel.app/api?username=dibyarupnath&show_icons=true&theme=maroongold" alt="Dibyarup's GitHub Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyarupnath&amp;theme=maroongold" alt="Dibyarup's GitHub Streak"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dibyarupnath"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyarupnath&layout=compact&theme=maroongold"></a>
+    <a href="https://github.com/dibyarupnath/"><img width="284" src="https://github-readme-stats.vercel.app/api?username=dibyarupnath&show_icons=true&theme=maroongold" alt="Dibyarup's GitHub Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyarupnath&amp;theme=maroongold" alt="Dibyarup's GitHub Streak"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dibyarupnath"><img width="251" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyarupnath&layout=compact&theme=maroongold"></a>
 </p>
 
 <!-- Trophies -->
@@ -250,7 +253,7 @@ The following markdown is the code for the above Trophies add-on, but I converte
 
 <!-- Quine Widgets -->
 <p align="center">
-    <a href="https://quine.sh"><img width="330" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="330" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="330" height="160" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><br>
+    <a href="https://quine.sh"><img width="330" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="360" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="330" height="160" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><br>
     <a href="https://quine.sh"><img width="250" height="250" src="https://stats.quine.sh/dibyarupnath/github?theme=dark" alt="dibyarupnath&#39;s GitHub | Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="250" height="250" src="https://stats.quine.sh/dibyarupnath/stack-overflow?theme=dark" alt="dibyarupnath&#39;s Stack Overflow | Stats"></a>
 </p>
 
