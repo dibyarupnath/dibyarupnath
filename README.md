@@ -233,17 +233,27 @@
 
 <h2 align="center"><strong>📈 My GitHub Stats</strong></h2>
 
+<!-- Widgets by Anura Ghazra (anuraghazra) -->
 <p align="center">
-<a href="https://github.com/dibyarupnath/"><img width="400" src="https://github-readme-stats.vercel.app/api?username=dibyarupnath&show_icons=true&theme=maroongold" alt="Dibyarup's GitHub Stats">
+    <a href="https://github.com/dibyarupnath/"><img width="300" src="https://github-readme-stats.vercel.app/api?username=dibyarupnath&show_icons=true&theme=maroongold" alt="Dibyarup's GitHub Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyarupnath&amp;theme=maroongold" alt="Dibyarup's GitHub Streak"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dibyarupnath"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyarupnath&layout=compact&theme=maroongold"></a>
 </p>
 
-<p align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyarupnath&amp;theme=maroongold" alt="Dibyarup's GitHub Streak"></a></p>
-
+<!-- Trophies -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyarupnath&amp;row=1" alt="Dibyarup's GitHub Trophy"></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyarupnath&amp;theme=algolia&amp;no-frame=true&amp;row=1&amp;margin-w=16&amp;margin-h=100" alt="trophy"></a>
 </p>
 
-<!-- <a href="https://github.com/dibyarupnath"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyarupnath&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox"> -->
+<!-- 
+The following markdown is the code for the above Trophies add-on, but I converted it to HTML and pasted above this comment, because I wanted to center it using <p align="center"></p> -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dibyarupnath&theme=algolia&no-frame=true&row=1&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+<!-- Quine Widgets -->
+<p align="center">
+    <a href="https://quine.sh"><img width="330" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="330" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="330" height="160" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><br>
+    <a href="https://quine.sh"><img width="250" height="250" src="https://stats.quine.sh/dibyarupnath/github?theme=dark" alt="dibyarupnath&#39;s GitHub | Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="250" height="250" src="https://stats.quine.sh/dibyarupnath/stack-overflow?theme=dark" alt="dibyarupnath&#39;s Stack Overflow | Stats"></a>
+</p>
 
 <!-- ## Most valuable repo
 
@@ -270,8 +280,4 @@
 
 <!-- Other Profiles:  -->
 [Techno India University]: https://www.technoindiauniversity.ac.in/
-
-
 [The Rotaract Club of Calcutta Presidency]: https://www.facebook.com/rccalprez/
-
-<hr>
