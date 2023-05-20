@@ -1,4 +1,4 @@
-<center><h5 style="color: yellowgreen;">Jio has blocked <a src="raw.githubusercontent.com">raw.githubusercontent.com</a> in India. If you are using Jio, Please use a VPN or configure <a src="https://developers.google.com/speed/public-dns/docs/using">Google DNS => 8.8.8.8 and 8.8.4.4</a>. I will be slowly replacing the direct icon paths with CDN paths.</h5></center><br>
+<center><h5 style="color: yellowgreen;">Jio has blocked <a src="raw.githubusercontent.com">raw.githubusercontent.com</a> in India. If you are using Jio, Please use a VPN or configure <a src="https://developers.google.com/speed/public-dns/docs/using">Google DNS => 8.8.8.8 and 8.8.4.4</a>. I a will be slowly replacing the direct icon paths with CDN paths.</h5></center><br>
 
 <p align="center">
 <img src="./assets/gif/Hello.gif" width="100%" >
