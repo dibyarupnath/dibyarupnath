@@ -31,8 +31,8 @@
 <p align="center">
     <a href="mailto:dibyarupnath@gmail.com" target="_blank"> <img src="./assets/icons/GMail.png" alt="gmail" width="50" height="36"/> </a>&emsp;&emsp;
     <a href="https://www.linkedin.com/in/dibyarupnath/" target="_blank"> <img src="./assets/icons/Linkedin.svg" alt="Linkedin" width="37" height="37"/> </a> &emsp;&emsp;
-    <a href="https://twitter.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Twitter.svg" alt="Twitter" width="37" height="37"/> </a> &emsp;&emsp;
-    <a href="https://www.hackerrank.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/HackerRank.svg" alt="Hackerrank" width="37" height="37"/> </a> &emsp;&emsp;
+    <a href="https://twitter.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/X.png" alt="Twitter" width="37" height="37"/> </a> &emsp;&emsp;
+    <a href="https://www.hackerrank.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/HackerRank.png" alt="Hackerrank" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://www.cloudskillsboost.google/public_profiles/8e032c15-b702-448d-bc54-c61181c52fe9/" target="_blank"> <img src="./assets/icons/GCloud.svg" alt="Google Cloud Skills Boost" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GitHub.png" alt="GitHub" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://gitlab.com/dibyarupnath" target="_blank"> <img src="./assets/icons/GitLab.svg" alt="git-lab" width="37" height="37"/> </a>&emsp;&emsp;
