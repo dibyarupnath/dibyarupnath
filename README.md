@@ -144,7 +144,7 @@
 </p>
 
 <!-- Virtualization Software I Use -->
-
+<br>
 <h2 align="center"><strong>💻 Virtualization Software I Use</strong></h2>
 
 <p align="center">
