@@ -129,7 +129,7 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="./assets/icons/Docker.png" alt="Docker" width="55" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.kaggle.com/" target="_blank"> <img src="./assets/icons/Kaggle.svg" alt="Kaggle" width="37" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.kaggle.com/" target="_blank"> <img src="./assets/icons/HuggingFace.svg" alt="Hugging Face" width="42" height="40"/> </a>&emsp;&emsp;
-    <a href="https://gitter.im/" target="_blank"> <img src="./assets/icons/Gitter.svg" alt="Gitter" width="37" height="37"/> </a>&emsp;&emsp;
+    <!-- <a href="https://gitter.im/" target="_blank"> <img src="./assets/icons/Gitter.svg" alt="Gitter" width="37" height="37"/> </a>&emsp;&emsp; -->
 </p>
 
 <!-- Cloud Platforms I Use & Learn -->
