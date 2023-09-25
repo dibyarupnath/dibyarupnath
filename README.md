@@ -95,11 +95,11 @@
     <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="./assets/icons/SQlite-Logo.svg" alt="S Q lite" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://www.oracle.com/in/database/sqldeveloper/" target="_blank"> <img src="./assets/icons/Oracle-SQL-Developer.svg" alt="Oracle SQL Developer" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/icons/Mysql.svg" alt="My-SQL" width="40" height="40"/> </a> &emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Azure-Data-Studio.png" alt="Microsoft Azure Data Studio" width="40" height="40"/> </a> &emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Azure-SQL-Database.svg" alt="Microsoft Azure SQL Database" width="40" height="40"/> </a> &emsp;&emsp;
+    <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio" target="_blank"> <img src="./assets/icons/Azure-Data-Studio.png" alt="Microsoft Azure Data Studio" width="40" height="40"/> </a> &emsp;&emsp;
+    <a href="https://azure.microsoft.com/en-in/products/azure-sql/database" target="_blank"> <img src="./assets/icons/Azure-SQL-Database.svg" alt="Microsoft Azure SQL Database" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/IBM-DB2.png" alt="IBM DB2" width="41" height="41"/> </a> &emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Microsoft-Access.png" alt="Microsoft Access" width="37" height="37"/> </a> &emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/DataGrip.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
+    <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Microsoft-Access.png" alt="Microsoft Access" width="37" height="37"/> </a> &emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/DataGrip.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp; -->
 </p>
 
 <!-- IDEs & Other Technial Services I Use/Learn -->
@@ -112,10 +112,10 @@
     <a href="https://www.gitkraken.com/" target="_blank"> <img src="./assets/icons/GitKraken.svg" alt="Git Kraken" width="45" height="45"/> </a> &emsp;&emsp;
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="./assets/icons/PyCharm.svg" alt="Py-Charm" width="37" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="./assets/icons/IntelliJ.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/CLion.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GoLand.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Datalore.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/DataSpell.svg" alt="Intelli-J" width="37" height="37"/> </a>&emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/CLion.svg" alt="CLion" width="37" height="37"/> </a>&emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GoLand.svg" alt="GoLand" width="37" height="37"/> </a>&emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Datalore.svg" alt="Datalore" width="37" height="37"/> </a>&emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/DataSpell.svg" alt="DataSpell" width="37" height="37"/> </a>&emsp;&emsp;
     <a href="https://atom.io/" target="_blank"> <img src="./assets/icons/Atom.svg" alt="Atom" width="37" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="./assets/icons/Sublime-Text.svg" alt="Sublime Text" width="37" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.anaconda.com/" target="_blank"> <img src="./assets/icons/Anaconda.svg" alt="anaconda" width="37" height="37"/> </a>&emsp;&emsp;
@@ -128,6 +128,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="./assets/icons/Git.svg" alt="git" width="39" height="39"/> </a>&emsp;&emsp;
     <a href="https://www.docker.com/" target="_blank"> <img src="./assets/icons/Docker.png" alt="Docker" width="55" height="37"/> </a>&emsp;&emsp;
     <a href="https://www.kaggle.com/" target="_blank"> <img src="./assets/icons/Kaggle.svg" alt="Kaggle" width="37" height="37"/> </a>&emsp;&emsp;
+    <a href="https://www.kaggle.com/" target="_blank"> <img src="./assets/icons/HuggingFace.svg" alt="Hugging Face" width="42" height="40"/> </a>&emsp;&emsp;
     <a href="https://gitter.im/" target="_blank"> <img src="./assets/icons/Gitter.svg" alt="Gitter" width="37" height="37"/> </a>&emsp;&emsp;
 </p>
 
