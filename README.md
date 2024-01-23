@@ -273,64 +273,13 @@ The following markdown is the code for the above Trophies add-on, but I converte
 </a>
 
 <!-- Profile Visitors -->
-<h3><strong>Profile Visitors' Count: </strong></h3><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count" />
+<h3><strong>Profile Visitors' Count: </strong></h3><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count" />
 
 <!--<h3><strong>Codewars Stats: </strong></h3>
 <p><a href="https://www.codewars.com/users/dibyarupnath"><img src="https://www.codewars.com/users/dibyarupnath/badges/large" alt="Codewars Badge"></a></p>
 
  <h3><strong>LeetCode Stats: </strong></h3>
 <p><a href="https://github.com/dibyarupnath"><img src="https://leetcode-stats-six.vercel.app/api?username=dibyarupnath" alt="KnlnKS LeetCode Stats"></a></p> -->
-
-<br>
-<h2 align="center">Octocard</h2>
-<div id="octocard"></div>
-<script>
-OCTOCARD = {
-  // [required][string] Username.
-  name: 'dibyarupnath',
-
-  // [optional][string|Element]
-  // element or elementId, `octocard` as default.
-  element: 'octocard',
-
-  // [optional][string]
-  // Used module names, default is:
-  //   `base,details,stats,repos,contributions,orgs`.
-  // You can change the order or remove module if you don't want.
-  modules: 'base,details,stats,repos,orgs,eventsStatis',
-
-  // [optional][string]specify the theme name to be used
-  // 'default' as default
-  theme: "azzura",
-
-  // [optional][number] Number of repos to be shown.
-  // `3` as default
-  reposNum: 4,
-
-  // [optional][number]repos which will not be shown
-  // '' as default
-  reposIgnored: 'reponame1,reponame2',
-
-  // [optional][number] Number of organizations to be shown.
-  // `Infinity` as default, represent showing all organizations.
-  orgsNum: -1,
-
-  // [optional][string]url of jsonp api
-  // `http://octocard.in/api` as default.
-  // If your use your own octocard-server, change it.
-  api: 'http://your-octocard-server.com/api',
-
-  // [optional][boolean]show footer or not
-  // 'false' as default
-  noFooter: false,
-
-  // [optional][boolean]
-  // Use `shadowDom` or `iframe` to create isolate container or not
-  // 'false' as default
-  noIsolated: true
-};
-</script>
-<script src="http://octocard.in/o.js"></script>
 
 
 <!-- ## Most valuable repo
