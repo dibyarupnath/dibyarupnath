@@ -281,8 +281,11 @@ The following markdown is the code for the above Trophies add-on, but I converte
  <h3><strong>LeetCode Stats: </strong></h3>
 <p><a href="https://github.com/dibyarupnath"><img src="https://leetcode-stats-six.vercel.app/api?username=dibyarupnath" alt="KnlnKS LeetCode Stats"></a></p> -->
 
+<!-- <p align="center"><a href="https://github.com/Jurredr/github-widgetbox"><img width=540 src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true" alt="GitHub WidgetBox"></a></p> -->
 
 <!-- ## Most valuable repo
+
+https://github.com/Jurredr/github-widgetbox
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=BookCart-frontend&theme=midnight-purple)](https://github.com/mohit355/BookCart-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=DuoMeet-frontend&theme=midnight-purple)](https://github.com/mohit355/DuoMeet-frontend)
