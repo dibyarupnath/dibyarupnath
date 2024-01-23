@@ -258,23 +258,22 @@ The following markdown is the code for the above Trophies add-on, but I converte
 
 <!-- Quine Widgets -->
 <p align="center">
-    <a href="https://quine.sh"><img width="400" height="220" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh?utm_source=widgets&amp;utm_campaign=dibyarupnath"><img width="310" src="https://stats.quine.sh/dibyarupnath/dependencies?theme=dark" alt="dibyarupnath&#39;s GitHub | Dependencies"></a><br><a href="https://quine.sh"><img width="400" height="300" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="390" height="320" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/github?theme=dark" alt="dibyarupnath&#39;s GitHub | Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/stack-overflow?theme=dark" alt="dibyarupnath&#39;s Stack Overflow | Stats"></a>
-<br><img src="https://myreadme.vercel.app/api/embed/dibyarupnath?panels=userstatistics,commitgraph,toplanguages,toprepositories" alt="reimaginedreadme" />
+    <a href="https://quine.sh"><img width="400" height="220" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh?utm_source=widgets&amp;utm_campaign=dibyarupnath"><img width="310" src="https://stats.quine.sh/dibyarupnath/dependencies?theme=dark" alt="dibyarupnath&#39;s GitHub | Dependencies"></a><br><a href="https://quine.sh"><img width="400" height="300" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="390" height="320" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/github?theme=dark" alt="dibyarupnath&#39;s GitHub | Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/stack-overflow?theme=dark" alt="dibyarupnath&#39;s Stack Overflow | Stats"></a><br><img src="https://myreadme.vercel.app/api/embed/dibyarupnath?panels=userstatistics,commitgraph,toplanguages,toprepositories" alt="reimaginedreadme" />
 </p>
 
 <!-- Miscellaneous Information -->
 <br>
 <h2 align="center"><strong>🗂️ Miscellaneous Information</strong></h2>
 
+<!-- Profile Visitors -->
+<h3><strong>Profile Visitors' Count: </strong></h3>
+<p><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count"/></p>
+
 <!-- Contributors to this Repo -->
 <h3><strong>Contributors to this Repository: </strong></h3>
 <a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=dibyarupnath/dibyarupnath"/>
 </a>
-
-<!-- Profile Visitors -->
-<h3><strong>Profile Visitors' Count: </strong></h3>
-<p><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count"/></p>
 
 <!-- <h3><strong>Codewars Stats: </strong></h3>
 <p><a href="https://www.codewars.com/users/dibyarupnath"><img src="https://www.codewars.com/users/dibyarupnath/badges/large" alt="Codewars Badge"></a></p>
