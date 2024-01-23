@@ -267,13 +267,14 @@ The following markdown is the code for the above Trophies add-on, but I converte
 <h2 align="center"><strong>🗂️ Miscellaneous Information</strong></h2>
 
 <!-- Contributors to this Repo -->
-<h3><strong>Contributors to this Repository: </strong></h3>:
+<h3><strong>Contributors to this Repository: </strong></h3>
 <a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=dibyarupnath/dibyarupnath"/>
 </a>
 
 <!-- Profile Visitors -->
-<h3><strong>Profile Visitors' Count: </strong></h3><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count" />&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count" />
+<h3><strong>Profile Visitors' Count: </strong></h3><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count" />&nbsp;
+<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count" />
 
 <!-- <h3><strong>Codewars Stats: </strong></h3>
 <p><a href="https://www.codewars.com/users/dibyarupnath"><img src="https://www.codewars.com/users/dibyarupnath/badges/large" alt="Codewars Badge"></a></p>
