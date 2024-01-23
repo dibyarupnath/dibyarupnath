@@ -232,8 +232,12 @@
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-XD-CC.svg" alt="Adobe XD" width="41" height="41"/> </a>&emsp;&emsp;
 </p>
 
-<!-- My GitHub Stats -->
+<!-- Generate Random Jokes -->
 <br>
+<h2 align="center"><strong>😉 Random Jokes 😆</strong></h2>
+<center><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></center>
+
+<!-- My GitHub Stats -->
 <h2 align="center"><strong>📈 My GitHub Stats</strong></h2>
 
 <!-- Widgets by Anura Ghazra (anuraghazra) -->
@@ -255,7 +259,79 @@ The following markdown is the code for the above Trophies add-on, but I converte
 <!-- Quine Widgets -->
 <p align="center">
     <a href="https://quine.sh"><img width="400" height="220" src="https://stats.quine.sh/dibyarupnath/languages-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Languages Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh?utm_source=widgets&amp;utm_campaign=dibyarupnath"><img width="310" src="https://stats.quine.sh/dibyarupnath/dependencies?theme=dark" alt="dibyarupnath&#39;s GitHub | Dependencies"></a><br><a href="https://quine.sh"><img width="400" height="300" src="https://stats.quine.sh/dibyarupnath/topics-over-time?theme=dark" alt="dibyarupnath&#39;s GitHub | Topics Over Time"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="390" height="320" src="https://stats.quine.sh/dibyarupnath/web3?theme=dark" alt="dibyarupnath&#39;s Web3 | Identity"></a><br><a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/github?theme=dark" alt="dibyarupnath&#39;s GitHub | Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://quine.sh"><img width="400" height="290" src="https://stats.quine.sh/dibyarupnath/stack-overflow?theme=dark" alt="dibyarupnath&#39;s Stack Overflow | Stats"></a>
+<br><img src="https://myreadme.vercel.app/api/embed/dibyarupnath?panels=userstatistics,commitgraph,toplanguages,toprepositories" alt="reimaginedreadme" />
 </p>
+
+<!-- Miscellaneous Information -->
+<br>
+<h2 align="center"><strong>🗂️ Miscellaneous Information</strong></h2>
+
+<!-- Contributors to this Repo -->
+<h3><strong>Contributors to this Repository: </strong></h3>:
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=dibyarupnath/dibyarupnath"/>
+</a>
+
+<!-- Profile Visitors -->
+<h3><strong>Profile Visitors' Count: </strong></h3><img src="https://widgetbite.com/stats/{dibyarupnath}" alt="watching_count" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{dibyarupnath}/count.svg" alt="dibyarupnath :: Visitor's Count" />
+
+<!--<h3><strong>Codewars Stats: </strong></h3>
+<p><a href="https://www.codewars.com/users/dibyarupnath"><img src="https://www.codewars.com/users/dibyarupnath/badges/large" alt="Codewars Badge"></a></p>
+
+ <h3><strong>LeetCode Stats: </strong></h3>
+<p><a href="https://github.com/dibyarupnath"><img src="https://leetcode-stats-six.vercel.app/api?username=dibyarupnath" alt="KnlnKS LeetCode Stats"></a></p> -->
+
+<br>
+<h2 align="center">Octocard</h2>
+<div id="octocard"></div>
+<script>
+OCTOCARD = {
+  // [required][string] Username.
+  name: 'dibyarupnath',
+
+  // [optional][string|Element]
+  // element or elementId, `octocard` as default.
+  element: 'octocard',
+
+  // [optional][string]
+  // Used module names, default is:
+  //   `base,details,stats,repos,contributions,orgs`.
+  // You can change the order or remove module if you don't want.
+  modules: 'base,details,stats,repos,orgs,eventsStatis',
+
+  // [optional][string]specify the theme name to be used
+  // 'default' as default
+  theme: "azzura",
+
+  // [optional][number] Number of repos to be shown.
+  // `3` as default
+  reposNum: 4,
+
+  // [optional][number]repos which will not be shown
+  // '' as default
+  reposIgnored: 'reponame1,reponame2',
+
+  // [optional][number] Number of organizations to be shown.
+  // `Infinity` as default, represent showing all organizations.
+  orgsNum: -1,
+
+  // [optional][string]url of jsonp api
+  // `http://octocard.in/api` as default.
+  // If your use your own octocard-server, change it.
+  api: 'http://your-octocard-server.com/api',
+
+  // [optional][boolean]show footer or not
+  // 'false' as default
+  noFooter: false,
+
+  // [optional][boolean]
+  // Use `shadowDom` or `iframe` to create isolate container or not
+  // 'false' as default
+  noIsolated: true
+};
+</script>
+<script src="http://octocard.in/o.js"></script>
+
 
 <!-- ## Most valuable repo
 
