@@ -17,11 +17,11 @@
 
 - 📖 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Techno India University]**.
 
-- 🖥️ Fields that interest me most include **Data Science, Machine Learning, Deep Learning, Computer Vision, and Self-Driving Cars**.
+<!-- - 🖥️ Fields that interest me most include **Data Science, Machine Learning, Deep Learning, Computer Vision, and Self-Driving Cars**. -->
 
 - 📷 My hobbies include **Chess, Wildlife Photography, Linguistics, Cooking, and Lawn Tennis**.
 
-- 🖋️ General Member [Social Media Team] at **[The Rotaract Club of Calcutta Presidency]**.
+- 🖋️ Director-Social Media and Chair PR at **[The Rotaract Club of Calcutta Presidency]**.
 
 
 <!-- Let's Connect  -->
@@ -35,11 +35,10 @@
     <a href="https://www.hackerrank.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/HackerRank.png" alt="Hackerrank" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://www.cloudskillsboost.google/public_profiles/8e032c15-b702-448d-bc54-c61181c52fe9/" target="_blank"> <img src="./assets/icons/GCloud.svg" alt="Google Cloud Skills Boost" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GitHub.png" alt="GitHub" width="37" height="37"/> </a> &emsp;&emsp;
-    <!-- <a href="https://gitlab.com/dibyarupnath" target="_blank"> <img src="./assets/icons/GitLab.svg" alt="git-lab" width="37" height="37"/> </a>&emsp;&emsp; -->
-
-    <!-- <a href="" target="_blank"> <img src="./assets/icons/Chess.png" alt="Chess.com" width="37" height="37"/> </a> &emsp;&emsp; -->
-    <!-- <a href="https://lichess.org/@/Dibyarup_Nath" target="_blank"> <img src="./assets/icons/Lichess.png" alt="Lichess" width="37" height="37"/> </a> &emsp;&emsp; -->
-    <!-- <a href="" target="_blank"> <img src="./assets/icons/Linktree.png" alt="linktree" width="33" height="33"/> </a> &emsp;&emsp; -->
+    <!-- <a href="https://gitlab.com/dibyarupnath" target="_blank"> <img src="./assets/icons/GitLab.svg" alt="git-lab" width="37" height="37"/> </a>&emsp;&emsp; 
+    <a href="" target="_blank"> <img src="./assets/icons/Chess.png" alt="Chess.com" width="37" height="37"/> </a> &emsp;&emsp; 
+    <a href="https://lichess.org/@/Dibyarup_Nath" target="_blank"> <img src="./assets/icons/Lichess.png" alt="Lichess" width="37" height="37"/> </a> &emsp;&emsp; 
+    <a href="" target="_blank"> <img src="./assets/icons/Linktree.png" alt="linktree" width="33" height="33"/> </a> &emsp;&emsp; -->
 </p>
 
 <!-- Frameworks & Programming/Scripting Languages I Use/Know -->
@@ -48,10 +47,11 @@
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="./assets/icons/Python.svg" alt="python" width="40" height="40"/> </a>&emsp;&emsp;
-    <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="./assets/icons/Matlab.png" alt="MATLAB" width="40" height="40"/> </a> &emsp;&emsp;
+    <!-- <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="./assets/icons/Matlab.png" alt="MATLAB" width="40" height="40"/> </a> &emsp;&emsp; -->
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="./assets/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://numpy.org/" target="_blank"> <img src="./assets/icons/Numpy.svg" alt="numpy" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://matplotlib.org/" target="_blank"> <img src="./assets/icons/Matplotlib.svg" alt="matplotlib" width="44" height="44"/> </a> &emsp;&emsp;
+    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp;
     <!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="./assets/icons/C.svg" alt="c" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./assets/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://www.java.com/" target="_blank"> <img src="./assets/icons/Java.svg" alt="java" width="40" height="40"/> </a>&emsp;&emsp; -->
@@ -60,29 +60,28 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/icons/CSS3.svg" alt="css3" width="40" height="50"/> </a> &emsp;&emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="./assets/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/icons/Bootstrap.svg" alt="bootstrap" width="44" height="44"/> </a> &emsp;&emsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="./assets/icons/Bash.svg" alt="Bash" width="40" height="40"/> </a> &emsp;&emsp;
-    <a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank"> <img src="./assets/icons/LEX.png" alt="LEX" width="34" height="34"/> </a> &emsp;&emsp;
+    <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="./assets/icons/Bash.svg" alt="Bash" width="40" height="40"/> </a> &emsp;&emsp; -->
+    <!-- <a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank"> <img src="./assets/icons/LEX.png" alt="LEX" width="34" height="34"/> </a> &emsp;&emsp; -->
     <a href="https://en.wikipedia.org/wiki/QBasic" target="_blank"> <img src="./assets/icons/QB64.png" alt="QBASIC" width="34" height="34"/> </a> &emsp;&emsp;
 </p>
 <!-- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>&emsp;&emsp; -->
-<!-- Frameworks & Programming/Scripting Languages I Learn -->
-<br>
-<h2 align="center"><strong>📖 Frameworks & Programming/Scripting Languages I Learn</strong></h2>
-
-<p align="center">
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="./assets/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;&emsp;
+<!-- <br> -->
+<!-- <h2 align="center"><strong>📖 Frameworks & Programming/Scripting Languages I Learn</strong></h2> -->
+<!--  -->
+<!-- <p align="center"> -->
+    <!-- <a href="https://www.tensorflow.org/" target="_blank"> <img src="./assets/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;&emsp; -->
     <!-- <a href="https://keras.io/" target="_blank"> <img src="./assets/icons/Keras.png" alt="keras" width="40" height="40"/> </a> &emsp;&emsp; -->
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="./assets/icons/Scikit-learn.png" alt="scikit-learn" width="80" height="50"/> </a>&emsp;&emsp;
+    <!-- <a href="https://scikit-learn.org/" target="_blank"> <img src="./assets/icons/Scikit-learn.png" alt="scikit-learn" width="80" height="50"/> </a>&emsp;&emsp; -->
     <!-- <a href="https://seaborn.pydata.org/" target="_blank"> <img src="./assets/icons/Seaborn.png" alt="seaborn" width="48" height="48"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://networkx.org/" target="_blank"> <img src="./assets/icons/NetworkX.svg" alt="NetworkX" width="48" height="48"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://kubernetes.io/" target="_blank"> <img src="./assets/icons/Kubernetes.svg" alt="Kubernetes" width="44" height="44"/> </a>&emsp;&emsp; -->
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp;
+    <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Flask.png" alt="flask" width="39" height="39"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://go.dev/" target="_blank"> <img src="./assets/icons/GO.png" alt="golang" width="" height="33"/> </a>&emsp;&emsp; -->
     <!-- <a href="https://www.r-project.org/" target="_blank"> <img src="./assets/icons/R.svg" alt="R" width="40" height="40"/> </a>&emsp;&emsp; -->
     <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Solidity.png" alt="Solidity" width="34" height="34"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="./assets/icons/PowerShell-5.0.png" alt="PowerShell 5.0" width="40" height="40"/> </a> &emsp;&emsp; -->
-</p>
+<!-- </p> -->
 
 <!-- Databases & Data-Management Tools I Use & Learn -->
 <br>
@@ -91,7 +90,7 @@
 <p align="center">
     <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads/" target="_blank"> <img src="./assets/icons/MS-SQL-Server.png" alt="MS-SQL" width="43" height="43"/> </a>&emsp;&emsp;
     <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="./assets/icons/SQlite-Logo.svg" alt="S Q lite" width="40" height="40"/> </a> &emsp;&emsp;
-    <a href="https://www.oracle.com/in/database/sqldeveloper/" target="_blank"> <img src="./assets/icons/Oracle-SQL-Developer.svg" alt="Oracle SQL Developer" width="40" height="40"/> </a> &emsp;&emsp;
+    <!-- <a href="https://www.oracle.com/in/database/sqldeveloper/" target="_blank"> <img src="./assets/icons/Oracle-SQL-Developer.svg" alt="Oracle SQL Developer" width="40" height="40"/> </a> &emsp;&emsp; -->
     <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/icons/Mysql.svg" alt="My-SQL" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio" target="_blank"> <img src="./assets/icons/Azure-Data-Studio.png" alt="Microsoft Azure Data Studio" width="40" height="40"/> </a> &emsp;&emsp;
     <a href="https://azure.microsoft.com/en-in/products/azure-sql/database" target="_blank"> <img src="./assets/icons/Azure-SQL-Database.svg" alt="Microsoft Azure SQL Database" width="40" height="40"/> </a> &emsp;&emsp;
@@ -218,15 +217,15 @@
 <p align="center">
     <a href="https://www.canva.com/" target="_blank"> <img src="./assets/icons/Canva.png" alt="Canva" width="42" height="42"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/MSPaint.svg" alt="M S Paint" width="38" height="38"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Jitter.png" alt="Jitter" width="45" height="45"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/PosterMyWall.png" alt="Poster My Wall" width="40" height="40"/> </a>&emsp;&emsp;
+    <a href="https://jitter.video/" target="_blank"> <img src="./assets/icons/Jitter.png" alt="Jitter" width="45" height="45"/> </a>&emsp;&emsp;
+    <a href="https://www.postermywall.com/" target="_blank"> <img src="./assets/icons/PosterMyWall.png" alt="Poster My Wall" width="40" height="40"/> </a>&emsp;&emsp;
     <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Inkscape.svg" alt="Inkscape" width="42" height="42"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GIMP.svg" alt="GIMP" width="50" height="50"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Lunacy.png" alt="Lunacy" width="39" height="39"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Figma.svg" alt="Figma" width="40" height="36"/> </a>&emsp;&emsp; -->
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-Photoshop-CC.svg" alt="Krita" width="41" height="41"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-Photoshop-CC.svg" alt="Adobe Photoshop" width="41" height="41"/> </a>&emsp;&emsp;
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-Illustrator-CC.svg" alt="Adobe Illustrator" width="41" height="41"/> </a>&emsp;&emsp;
+    <a href="https://krita.org/en/" target="_blank"> <img src="./assets/icons/Krita.png" alt="Krita" width="44" height="44"/> </a>&emsp;&emsp;
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="./assets/icons/Adobe-Photoshop-CC.svg" alt="Adobe Photoshop" width="41" height="41"/> </a>&emsp;&emsp;
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="./assets/icons/Adobe-Illustrator-CC.svg" alt="Adobe Illustrator" width="41" height="41"/> </a>&emsp;&emsp;
     <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-Lightroom-CC.svg" alt="Adobe Lightroom" width="41" height="41"/> </a>&emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Adobe-XD-CC.svg" alt="Adobe XD" width="41" height="41"/> </a>&emsp;&emsp; -->
 </p>
@@ -237,7 +236,7 @@
 <center><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></center> -->
 
 <!-- My GitHub Stats -->
-<h2 align="center"><strong>📈 My GitHub Stats</strong></h2>
+<br/><h2 align="center"><strong>📈 My GitHub Stats</strong></h2>
 
 <!-- Widgets by Anura Ghazra (anuraghazra) -->
 <p align="center">
