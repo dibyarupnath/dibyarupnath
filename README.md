@@ -31,14 +31,14 @@
 <p align="center">
     <a href="mailto:dibyarupnath@gmail.com" target="_blank"> <img src="./assets/icons/GMail.png" alt="gmail" width="50" height="36"/> </a>&emsp;&emsp;
     <a href="https://www.linkedin.com/in/dibyarupnath/" target="_blank"> <img src="./assets/icons/Linkedin.svg" alt="Linkedin" width="37" height="37"/> </a> &emsp;&emsp;
-    <a href="https://twitter.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/X.png" alt="Twitter" width="37" height="37"/> </a> &emsp;&emsp;
+    <!-- <a href="https://twitter.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/X.png" alt="Twitter" width="37" height="37"/> </a> &emsp;&emsp; -->
     <a href="https://www.hackerrank.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/HackerRank.png" alt="Hackerrank" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://www.cloudskillsboost.google/public_profiles/8e032c15-b702-448d-bc54-c61181c52fe9/" target="_blank"> <img src="./assets/icons/GCloud.svg" alt="Google Cloud Skills Boost" width="37" height="37"/> </a> &emsp;&emsp;
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GitHub.png" alt="GitHub" width="37" height="37"/> </a> &emsp;&emsp;
-    <!-- <a href="https://gitlab.com/dibyarupnath" target="_blank"> <img src="./assets/icons/GitLab.svg" alt="git-lab" width="37" height="37"/> </a>&emsp;&emsp; 
-    <a href="" target="_blank"> <img src="./assets/icons/Chess.png" alt="Chess.com" width="37" height="37"/> </a> &emsp;&emsp; 
-    <a href="https://lichess.org/@/Dibyarup_Nath" target="_blank"> <img src="./assets/icons/Lichess.png" alt="Lichess" width="37" height="37"/> </a> &emsp;&emsp; 
-    <a href="" target="_blank"> <img src="./assets/icons/Linktree.png" alt="linktree" width="33" height="33"/> </a> &emsp;&emsp; -->
+    <!-- <a href="https://gitlab.com/dibyarupnath" target="_blank"> <img src="./assets/icons/GitLab.svg" alt="git-lab" width="37" height="37"/> </a>&emsp;&emsp; -->
+    <!-- <a href="" target="_blank"> <img src="./assets/icons/Chess.png" alt="Chess.com" width="37" height="37"/> </a> &emsp;&emsp; -->
+    <!-- <a href="https://lichess.org/@/Dibyarup_Nath" target="_blank"> <img src="./assets/icons/Lichess.png" alt="Lichess" width="37" height="37"/> </a> &emsp;&emsp; -->
+    <a href="https://linktr.ee/dibyarupnath" target="_blank"> <img src="./assets/icons/Linktree.png" alt="linktree" width="33" height="33"/> </a> &emsp;&emsp;
 </p>
 
 <!-- Frameworks & Programming/Scripting Languages I Use/Know -->
@@ -135,9 +135,9 @@
 
 <p align="center">
     <a href="https://cloud.google.com/" target="_blank"> <img src="./assets/icons/GCloud.svg" alt="Latex" width="37" height="37"/> </a>&emsp;&emsp;
-    <!-- <a href="https://aws.amazon.com/" target="_blank"> <img src="./assets/icons/AWS-White.png" alt="Latex" width="44" height="30"/> </a>&emsp;&emsp; -->
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="./assets/icons/AWS-White.png" alt="Latex" width="44" height="30"/> </a>&emsp;&emsp;
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="./assets/icons/Azure.svg" alt="Microsoft Azure Cloud Services" width="37" height="37"/>
-    <!-- </a>&emsp;&emsp;<a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Oracle.svg" alt="Oracle Cloud" width="100" height="16" display="flex" align-items="center" justify-content="center"/> </a>&emsp;&emsp;  -->
+    </a>&emsp;&emsp;<a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Oracle.svg" alt="Oracle Cloud" width="100" height="16" display="flex" align-items="center" justify-content="center"/> </a>&emsp;&emsp; 
     <!-- <a href="https://github.com/dibyarupnath" target="_blank"> <img src="./assets/icons/IBM-Cloud.svg" alt="IBM Cloud PLatform" width="37" height="37"/> -->
 </p>
 
@@ -182,11 +182,11 @@
     <a href="https://zoom.us/" target="_blank"> <img src="./assets/icons/Zoom.png" alt="Microsoft Teams" width="35" height="35"/> </a>&emsp;&emsp;
     <a href="https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software" target="_blank"> <img src="./assets/icons/Microsoft-Teams.svg" alt="Microsoft Teams" width="39" height="39"/> </a>&emsp;&emsp;
     <a href="https://todo.microsoft.com/" target="_blank"> <img src="./assets/icons/Microsoft-Todo.png" alt="Microsoft To Do" width="37" height=""/> </a>&emsp;&emsp;
-    <a href="https://www.webex.com/" target="_blank"> <img src="./assets/icons/Webex.png" alt="Microsoft Teams" width="39" height="39"/> </a>&emsp;&emsp;
+    <!-- <a href="https://www.webex.com/" target="_blank"> <img src="./assets/icons/Webex.png" alt="Microsoft Teams" width="39" height="39"/> </a>&emsp;&emsp; -->
     <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Xournalpp.svg" alt="Xournal Plus Plus" width="36" height="36"/> </a>&emsp;&emsp;
     <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/Miro.svg" alt="Miro" width="30" height="30"/> </a>&emsp;&emsp; -->
     <!-- <a href="https://slack.com/intl/en-in" target="_blank"> <img src="./assets/icons/Slack.svg" alt="Slack" width="30" height="30"/> </a>&emsp;&emsp; -->
-    <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GChat.png" alt="Google Chat" width="38" height="38"/> </a>&emsp;&emsp;
+    <!-- <a href="https://github.com/dibyarupnath/" target="_blank"> <img src="./assets/icons/GChat.png" alt="Google Chat" width="38" height="38"/> </a>&emsp;&emsp; -->
 </p>
 
 <!-- Office Tools I Use -->
