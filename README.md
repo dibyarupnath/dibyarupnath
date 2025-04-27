@@ -15,13 +15,13 @@
 
 <h2 align="center"><strong>💁🏻‍♂️ About Me</strong></h2>
 
-- 📖 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Techno India University]**.
+- 📖 **B.Tech** in **Computer Science and Engineering** at **[Techno India University]**, Class of 2024 (Bronze Medallist 🥉).
 
-<!-- - 🖥️ Fields that interest me most include **Data Science, Machine Learning, Deep Learning, Computer Vision, and Self-Driving Cars**. -->
+- 🖥️ Fields that interest me most include **Cloud Computing, Machine Learning, NLP, Gen AI, and AI in Self-Driving Cars**.
+
+- 🖋️ Ex-Director-Social Media and Ex-Chair PR at **[The Rotaract Club of Calcutta Presidency]**.
 
 - 📷 My hobbies include **Chess, Wildlife Photography, Linguistics, Cooking, and Lawn Tennis**.
-
-- 🖋️ Director-Social Media and Chair PR at **[The Rotaract Club of Calcutta Presidency]**.
 
 
 <!-- Let's Connect  -->
