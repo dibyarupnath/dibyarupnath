@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900px" height="px" viewBox="0 0 900 900" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="12" y1="2.5" x2="12" y2="20" gradientTransform="matrix(37.5,0,0,37.5,0,0)">
+<stop offset="0.446176" style="stop-color:rgb(19.215686%,52.54902%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(58.039216%,61.568627%,100%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(73.333335%,88.627452%,99.607843%);fill-opacity:1;" d="M 93.75 515.625 C 93.75 344.761719 232.261719 206.25 403.125 206.25 L 496.875 206.25 C 667.734375 206.25 806.25 344.761719 806.25 515.625 C 806.25 686.484375 667.734375 825 496.875 825 L 403.125 825 C 232.261719 825 93.75 686.484375 93.75 515.625 Z M 93.75 515.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 75 421.875 C 75 240.65625 221.90625 93.75 403.125 93.75 L 496.875 93.75 C 678.09375 93.75 825 240.65625 825 421.875 C 825 603.09375 678.09375 750 496.875 750 L 403.125 750 C 221.90625 750 75 603.09375 75 421.875 Z M 75 421.875 "/>
+<path style="fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8 11.5 L 10.209792 13.910729 C 10.502396 14.229896 11.00375 14.235729 11.30375 13.923333 L 16.75 8.25 " transform="matrix(37.5,0,0,37.5,0,0)"/>
+</g>
+</svg>

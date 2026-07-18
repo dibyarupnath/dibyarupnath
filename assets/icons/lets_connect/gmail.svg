@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900px" height="px" viewBox="0 0 900 900" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="20.25" y1="6" x2="20.25" y2="20.1728" gradientTransform="matrix(37.5,0,0,37.5,0,0)">
+<stop offset="0.408497" style="stop-color:rgb(22.745098%,77.254902%,40%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(20%,54.509804%,99.215686%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="22.499901" y1="10.0625" x2="1.5" y2="10.0625" gradientTransform="matrix(37.5,0,0,37.5,0,0)">
+<stop offset="0" style="stop-color:rgb(98.039216%,85.098039%,9.019608%);stop-opacity:1;"/>
+<stop offset="0.33" style="stop-color:rgb(96.862745%,29.411765%,27.843137%);stop-opacity:1;"/>
+<stop offset="0.66" style="stop-color:rgb(96.862745%,29.411765%,27.843137%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,39.215686%,62.745098%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.431373%,25.490198%,23.137255%);fill-opacity:1;" d="M 225 225 L 225 731.25 C 225 741.605469 216.605469 750 206.25 750 L 93.75 750 C 73.039062 750 56.25 733.210938 56.25 712.5 L 56.25 225 Z M 225 225 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 843.75 225 L 843.75 712.5 C 843.75 733.210938 826.960938 750 806.25 750 L 693.75 750 C 683.394531 750 675 741.605469 675 731.25 L 675 225 Z M 843.75 225 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 705.082031 169.792969 C 740.753906 139.804688 793.96875 144.414062 823.953125 180.082031 C 853.9375 215.75 849.332031 268.96875 813.664062 298.953125 L 474.128906 584.398438 C 460.175781 596.125 439.816406 596.125 425.863281 584.398438 L 86.332031 298.953125 C 50.664062 268.96875 46.054688 215.75 76.042969 180.082031 C 106.027344 144.414062 159.246094 139.804688 194.914062 169.792969 L 449.996094 384.226562 Z M 705.082031 169.792969 "/>
+</g>
+</svg>
