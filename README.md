@@ -1384,15 +1384,20 @@
       /> </a
     >&emsp;&emsp;
     <a href="https://www.oracle.com/in/cloud/" target="_blank">
-      <img
-        src="./assets/icons/dev_tools/cloud/oracle.svg"
-        alt="Oracle Cloud Infrastructure"
-        width="37"
-        height="45"
-        display="flex"
-        align-items="center"
-        justify-content="center"
-      /> </a
+      <span
+        style="
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+        "
+      >
+        <img
+          src="./assets/icons/dev_tools/cloud/oracle.svg"
+          alt="Oracle Cloud Infrastructure"
+          width="37"
+          height="45"
+        />
+      </span> </a
     >&emsp;&emsp;
     <a href="https://cloud.ibm.com/login" target="_blank">
       <img
